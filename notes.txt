@@ -1,0 +1,11 @@
+Things to include in the training file:
+
+1. actual word -- done
+2. pos tag -- done
+3. previous word -- done
+4. previous pos tag -- done
+5. next word -- done
+6. next pos tag -- done
+7. is capital -- done
+8. capital previous -- done
+9. capital next -- done
